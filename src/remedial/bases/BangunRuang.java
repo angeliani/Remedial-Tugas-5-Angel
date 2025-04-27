@@ -2,9 +2,9 @@ package remedial.bases;
 
 // abstract class untuk semua bangun ruang
 public abstract class BangunRuang {
-    private String nama;  // Nama bangun ruang
-    private double tinggi; // Tinggi bangun ruang
-    private double massa;  // Massa bangun ruang
+    private String nama;  // nama bangun ruang
+    private double tinggi; // tinggi bangun ruang
+    private double massa;  // massa bangun ruang
 
     // constructor default
     public BangunRuang() {}
